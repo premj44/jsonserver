@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "prem",
+      "author": "masai"
+    },
+    {
+      "id": 2,
+      "title": "prem2",
+      "author": "masai"
+    }
+  ]
+}
